@@ -1,10 +1,18 @@
 # DUTF
 
-![Logo do Suporte Rápido](Logo.png)
+![Capturar_2023_07_25_21_25_40_791](https://github.com/Noob-Saibot-227410/website-comunidade-aberta-a-edicoes-DUTF/assets/115899706/40c85fdd-ed1c-4f46-a896-0325c4129356)
 
 ## Digital Universe Tech (Free)
 
 Seja bem-vindo à nossa plataforma! Aqui você encontrará conteúdos especializados em Suporte, Desenvolvimento, DevOps e Cloud.
+
+<br>
+
+https://github.com/Noob-Saibot-227410/website-comunidade-aberta-a-edicoes-DUTF/assets/115899706/c8316c0e-5568-45cf-b82e-e91e208b8047
+
+<br>
+
+![Capturar_2023_07_25_21_25_44_967](https://github.com/Noob-Saibot-227410/website-comunidade-aberta-a-edicoes-DUTF/assets/115899706/2e7d0343-3b2e-4020-9821-8dd91e580c51)
 
 ### Legenda
 
@@ -72,4 +80,3 @@ Seja bem-vindo à nossa plataforma! Aqui você encontrará conteúdos especializ
 ## Apps (Free)
 
 - [Ambiente Cloud](https://mirrobox.com/s/1N_Ciq_3SPNJ3RQmhllikqQ)
-- [Ambiente DevOps](https://mirrobox.com/s/1N_C.
